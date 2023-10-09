@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	   setHeaderBackground();
 	});
 
-// POPUP JOB WINDOW
+/* POPUP JOB WINDOW
 	(function () {
 	  var $modal = document.getElementById('myModal');
 	  var $pixelArtistLink = document.getElementById('pixelArtistLink');
@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	      closeModal();
 	    }
 	  });
-	})();
+	})(); */
 
 		// Define a variable to store the current language
 	var currentLanguage = 'en'; // Default language is English
